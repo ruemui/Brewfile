@@ -11,10 +11,12 @@ tap phinze/cask
 brew brew-cask
 cask appcleaner
 cask bettertouchtool
+cask clamxav
 cask dropbox
 cask google-chrome
 cask karabiner
 cask macdown
+cask sourcetree
 cask virtualbox
 
 ## rcmdnk/file
@@ -28,7 +30,6 @@ appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore LINE
-appstore Memory Monitor
 appstore Numbers
 appstore Pages
 appstore StuffIt Expander
