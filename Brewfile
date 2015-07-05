@@ -32,6 +32,3 @@ appstore Numbers
 appstore Pages
 appstore StuffIt Expander
 appstore Xcode
-
-# Other commands
-git ruemui/Brewfile
