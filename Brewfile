@@ -12,13 +12,13 @@ cask dropbox
 cask google-chrome
 cask karabiner
 cask macdown
-cask processing
 cask sourcetree
 cask virtualbox
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefoxdeveloperedition-ja
+cask processing3
 cask sublime-text3
 
 ## rcmdnk/file
