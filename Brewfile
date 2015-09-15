@@ -10,6 +10,7 @@ cask arduino
 cask bettertouchtool
 cask dropbox
 cask google-chrome
+cask google-japanese-ime
 cask karabiner
 cask macdown
 cask sourcetree
